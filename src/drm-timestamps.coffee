@@ -3,10 +3,7 @@
 ###############################################################################
 "use strict"
 
-( ($) ->
-    class window.DrmTimeStamps
-        constructor: (@timestamps = $('.drm-timestamp')) ->
-    
-    new DrmTimeStamps()
+class @DrmTimeStamps
+    constructor: (@timestamps = $('.drm-timestamp')) ->
 
-) jQuery
+new DrmTimeStamps()

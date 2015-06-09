@@ -1,0 +1,31 @@
+{
+  "name": "elr-timestamps",
+  "version": "0.0.0",
+  "homepage": "https://github.com/elr-utilities/elr-timestamps",
+  "authors": [
+    "Elizabeth Rogers <beth@elizabeth-rogers.com>"
+  ],
+  "description": "Javascript Timestamps",
+  "main": "dist/elr-timestamps.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "timestamps",
+    "jquery",
+    "javascript",
+    "ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

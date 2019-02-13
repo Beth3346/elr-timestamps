@@ -1,6 +1,6 @@
 # ELR Timestamps
 
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/Beth3346/elr-timestamps.svg)](https://greenkeeper.io/)
 
 A jQuery component
 
